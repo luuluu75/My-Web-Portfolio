@@ -1,0 +1,23 @@
+/*css stylesheet*/
+
+* {
+color: teal;
+width: 100%;
+}
+.navbar-brand {
+    font-size: 40px;   
+}
+h1 {
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, italic;
+    color: rebeccapurple
+}
+
+.card img {
+    max-height: 25px;
+    max-width: 25px;
+}
+h5 {
+    display: block;
+}
+}
