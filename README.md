@@ -1,12 +1,12 @@
 # My Web Portfolio 
 
++ This page provides a bit of backgorund information about me.
++ It is also a showcase of the projects and assignments I have completed on the Boot Camp journey so far.
+
 ## Objectives
 
-+ Update the previous portfolio page that was freated in Week 3
-+ This page provides a bit of backgorund information about me
-+ It is a showcase of hte projects and assignments I have completed on the Boot Camp journey so far
-
-This project was to create a mobile responsive portfolio using Boostrap CSS Framework.
++ Update the previous portfolio page that was created in Week 3
++ Provide a sample of the projects developed to date and links to the owrk created.
 
 ## Updates for this project
 
