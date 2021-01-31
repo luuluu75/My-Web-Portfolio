@@ -1,16 +1,29 @@
-Week 3 Homework
+# My Web Portfolio 
+
+## Objectives
+
++ Update the previous portfolio page that was freated in Week 3
++ This page provides a bit of backgorund information about me
++ It is a showcase of hte projects and assignments I have completed on the Boot Camp journey so far
 
 This project was to create a mobile responsive portfolio using Boostrap CSS Framework.
 
-The 3 pages created were:
+## Updates for this project
 
-1. index.html
-- this file contains a navbar, an image and a small piece of text.
++ Consolidated the 3 html files into 1
++ Added a background image
++ Added resume in the About Me section
++ Replaced the visual resume with my portoflio
 
-2. portfolio.html
-- this page contains a brief summary of my wrok history and how I got to where I am today.
+## Links and Images
 
-3. contact.html
-- this page provides a link to my various professional pages as well as facebook.
-- the LinkedIn button-link is disabled due an error with the url provided by LinkedIn
++ Github Repo - https://github.com/luuluu75/My-Web-Portfolio.git
++ Deployed Page - https://luuluu75.github.io/My-Web-Portfolio/
+
++ Screen Shots of deployed product 
+
+<p float="left">
+    <img src="Assets/Images/about-me-page.jpg" width="200px"/>
+    <img src="Assets/Images/portfolio-page.jpg" width="200px"/>
+</p>
 
