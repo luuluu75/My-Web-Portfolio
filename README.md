@@ -22,6 +22,8 @@
 
 + Screen Shots of deployed product 
 
-![ScreenShot](/Assets/Images/about-me-page.jpg)
-![ScreenShot](/Assets/Images/portfolio-page.jpg)
+<p>
+  <img src=("Assets/Images/about-me-page.jpg")>
+  <img src=("Assets/Images/portfolio-page.jpg")>
+</p>
 
