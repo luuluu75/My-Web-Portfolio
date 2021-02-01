@@ -1,6 +1,6 @@
 # My Web Portfolio 
 
-+ This page provides a bit of backgorund information about me.
++ This page provides a bit of background information about me.
 + It is also a showcase of the projects and assignments I have completed on the Boot Camp journey so far.
 
 ## Objectives
