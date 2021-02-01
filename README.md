@@ -23,7 +23,7 @@
 + Screen Shots of deployed product 
 
 <p>
-  <img src=("Assets/Images/about-me-page.jpg")>
-  <img src=("Assets/Images/portfolio-page.jpg")>
+  <img src=("Assets/Images/about-me-page.JPG")>
+  <img src=("Assets/Images/portfolio-page.JPG")>
 </p>
 
