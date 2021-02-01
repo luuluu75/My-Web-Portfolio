@@ -22,8 +22,6 @@
 
 + Screen Shots of deployed product 
 
-<p float="left">
-    <img src="Assets/Images/about-me-page.jpg" width="200px"/>
-    <img src="Assets/Images/portfolio-page.jpg" width="200px"/>
-</p>
+![ScreenShot](/Assets/Images/about-me-page.jpg)
+![ScreenShot](/Assets/Images/portfolio-page.jpg)
 
