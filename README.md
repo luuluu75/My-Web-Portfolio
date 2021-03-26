@@ -5,15 +5,13 @@
 
 ## Objectives
 
-+ Update the previous portfolio page that was created in Week 3
-+ Provide a sample of the projects developed to date and links to the owrk created.
++ Update the previous portfolio page that was created in Week 15
++ Provide a sample of the projects developed to date and links to the work created.
 
 ## Updates for this project
 
-+ Consolidated the 3 html files into 1
-+ Added a background image
-+ Added resume in the About Me section
-+ Replaced the visual resume with my portoflio
++ Added new card content to showcase Project 2 - Message Wall.
++ Reallocated portfolio section into 2 rows
 
 ## Links and Images
 
